@@ -6,7 +6,7 @@ Openstack Client Application
 	This exercise will help you to build your own openstack client web based application with flask and openstack python client libraries.
 
 ### Instructions ###
-- Download zip file from http://github.com/tlakhman26/oca
+- Download zip file from https://github.com/tlakshman26/oca/archive/master.zip
 - Unzip file and go inside into folder
 - Run: python oca.py
 - Open in browser: http://127.0.0.1:5000
